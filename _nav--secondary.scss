@@ -1,0 +1,21 @@
+.nav--secondary__group {
+	display: block;
+	list-style:none;
+}
+
+.nav--secondary {
+	width:20%;
+	margin:0 auto;
+	
+}
+
+.nav--secondary__item {
+	
+	color: #bababa;
+	a {
+		color: inherit;
+		&:hover {
+		color: #fd5559;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+.nav--primary {
+	ul {
+		text-align: center;
+	}
+}
+
+.nav--primary__item {
+	list-style: none;
+	margin-left: 20px;
+	font-weight: 300;
+	display: inline-block;
+
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+
+	a {
+		color: #fcfcfc;
+		text-decoration: none;
+		padding: 10px 0;
+		display:block;
+	}
+}
